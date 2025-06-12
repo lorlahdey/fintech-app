@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2c56cf19-8ab7-488a-b7aa-b0c1eab90058"
+      }
+    },
+    "owner": "lolade",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/2c56cf19-8ab7-488a-b7aa-b0c1eab90058"
     }
   }
 }
